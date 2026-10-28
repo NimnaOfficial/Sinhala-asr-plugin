@@ -1,0 +1,14 @@
+# Target labels
+ sol2-populate
+# Source files and their labels
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/CMakeFiles/sol2-populate
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/CMakeFiles/sol2-populate.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/CMakeFiles/sol2-populate-complete.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-build.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-configure.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-download.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-install.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-mkdir.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-patch.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-test.rule
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-update.rule

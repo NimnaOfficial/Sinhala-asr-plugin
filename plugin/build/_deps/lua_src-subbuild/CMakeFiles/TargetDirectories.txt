@@ -1,0 +1,3 @@
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-subbuild/CMakeFiles/lua_src-populate.dir
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-subbuild/CMakeFiles/edit_cache.dir
+/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-subbuild/CMakeFiles/rebuild_cache.dir

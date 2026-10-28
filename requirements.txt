@@ -1,0 +1,36 @@
+# Sinhala ASR & Translation Pipeline Dependencies
+# ------------------------------------------------
+
+# PyTorch Ecosystem (CPU / CUDA compatible)
+# Note: For CPU-only, install with --extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Transformer Modeling, Tokenization & Datasets
+transformers>=4.40.0
+tokenizers>=0.19.0
+sentencepiece>=0.2.0
+datasets>=2.18.0
+accelerate>=0.28.0
+peft>=0.10.0
+
+# Audio Processing & VAD
+soundfile>=0.12.0
+webrtcvad>=2.0.10
+numpy>=1.24.0
+
+# Evaluation & Metrics
+jiwer>=3.0.0
+evaluate>=0.4.0
+
+# Text Normalization & Unicode
+regex>=2024.0.0
+
+# Model Optimization & ONNX Runtime
+onnx>=1.15.0
+onnxruntime>=1.17.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0
+click>=8.0

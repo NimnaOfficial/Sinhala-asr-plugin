@@ -1,0 +1,206 @@
+[
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lapi.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lapi.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lapi.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lapi.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lauxlib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lauxlib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lauxlib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lauxlib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lbaselib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lbaselib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lbaselib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lbaselib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lcode.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lcode.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lcode.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lcode.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lcorolib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lcorolib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lcorolib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lcorolib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lctype.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lctype.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lctype.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lctype.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldblib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldblib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldblib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldblib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldebug.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldebug.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldebug.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldebug.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldo.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldo.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldo.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldo.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldump.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldump.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ldump.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ldump.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lfunc.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lfunc.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lfunc.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lfunc.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lgc.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lgc.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lgc.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lgc.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/linit.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/linit.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/linit.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/linit.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/liolib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/liolib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/liolib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/liolib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/llex.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/llex.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/llex.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/llex.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lmathlib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lmathlib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lmathlib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lmathlib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lmem.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lmem.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lmem.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lmem.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/loadlib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/loadlib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/loadlib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/loadlib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lobject.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lobject.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lobject.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lobject.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lopcodes.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lopcodes.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lopcodes.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lopcodes.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/loslib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/loslib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/loslib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/loslib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lparser.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lparser.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lparser.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lparser.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstate.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstate.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstate.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstate.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstring.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstring.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstring.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstring.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstrlib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstrlib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lstrlib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lstrlib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltable.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltable.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltable.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltable.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltablib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltablib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltablib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltablib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltests.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltests.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltests.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltests.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltm.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltm.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/ltm.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/ltm.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lundump.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lundump.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lundump.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lundump.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lutf8lib.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lutf8lib.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lutf8lib.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lutf8lib.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lvm.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lvm.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lvm.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lvm.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/cc -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/lua_lib.dir/_deps/lua_src-src/lzio.c.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lzio.c",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src/lzio.c",
+  "output": "CMakeFiles/lua_lib.dir/_deps/lua_src-src/lzio.c.o"
+},
+{
+  "directory": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build",
+  "command": "/usr/bin/c++ -DSOL_ALL_SAFETIES_ON=1 -DSOL_STD_OPTIONAL=1 -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/include -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/third_party/moodycamel -I/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/lua_src-src -isystem /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/build/_deps/sol2-src/include -std=gnu++20 -O3 -Wall -Wextra -pthread -Wno-template-body -o CMakeFiles/sinhala_asr_engine.dir/src/main.cpp.o -c /home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/src/main.cpp",
+  "file": "/home/nima/projects/Sinhala_model/sinhala-asr-plugin/plugin/src/main.cpp",
+  "output": "CMakeFiles/sinhala_asr_engine.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sinhala_asr_engine.dir/link.d CMakeFiles/sinhala_asr_engine.dir/src/main.cpp.o -o sinhala_asr_engine  liblua_lib.a -lpthread -ldl
