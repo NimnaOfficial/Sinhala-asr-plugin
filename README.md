@@ -1,4 +1,6 @@
-# Sinhala ASR & Video Captioning Plugin
+> [!IMPORTANT]
+> **Restricted repository - view-only access.**
+> This project is proprietary and is not open source. Viewing is permitted only to users explicitly authorized by NimnaOfficial. Copying, downloading, cloning, forking, scraping, modifying, building, executing, redistributing, or using any part of this repository is prohibited without prior written permission. See [LICENSE](LICENSE).# Sinhala ASR & Video Captioning Plugin
 
 A high-performance, real-time Sinhala Automatic Speech Recognition (ASR) and Speech-to-Text Translation (STTT) engine with a native C++20 and Lua plugin architecture for video editors (Adobe After Effects AEGP, DaVinci Resolve OpenFX) and audio suites (DAWs, OBS).
 
